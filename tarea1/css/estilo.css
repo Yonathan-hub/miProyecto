@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    margin-top: -40px;
+}
+h2{
+    margin-left: 20px;
+}
+div{
+    margin-left: 20px;
+    width: 50%;
+    padding: 5%;
+    border: solid 1px #BCBCBC;
+    box-sizing: 5px 5px 5px 5px #6D6B6B;
+    text-align: justify;
+    box-shadow: 5px 5px 5px 5px #6D6B6B;
+}
+
+footer{
+    text-align: center;
+
+}
+
+body{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 50px;
+    background: #8C8C8C;
+    padding: 5%;
+}
+
+html{
+    background: #491313;
+
+}
+a{
+    color: #AB4000;
+    font-style: italic;
+    font-weight: bold;
+}
+
+img{
+    float: left;
+}

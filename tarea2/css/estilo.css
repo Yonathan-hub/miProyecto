@@ -1,0 +1,38 @@
+html{
+    background: #520808;
+    margin-top: 30px;
+}
+h1{
+    text-align: center;
+    font-family: BunkenTechSansSCWideW01-Bd;
+
+}
+body{
+    padding: 3%;
+    
+    width: 60%;
+    margin: 0px auto;
+    background: #A4A4A4;
+   
+}
+h2{
+    background: #3E3E3E;
+    padding: 5px;
+    color: #FFFFFF;
+    font-family: BunkenTechSansSCWideW01-Bd;
+}
+p{
+    margin-left: 70px;
+    text-align: justify;
+    font-family: arial;
+    text-indent: 30px; 
+    font-size: 15px;
+
+}
+img{
+    float: left;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+}
